@@ -13,6 +13,7 @@
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
@@ -20,11 +21,11 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
 
 #### Highlighted Repositories
-[![](https://img.shields.io/badge/-📟%20Object%20-Oriented%20Programming-000)](https://github.com/ftasbasi/Object-Oriented-Programming)
+[![](https://img.shields.io/badge/-📟%20Object%20Oriented%20Programming-000)](https://github.com/ftasbasi/Object-Oriented-Programming)
 [![](https://img.shields.io/badge/-🦠%20CoronaVirus%20Epidemic%20Modelling-000)](https://github.com/ftasbasi/EpidemicModels-Covid19-SIR-SEIR-SIRD-)
-[![](https://img.shields.io/badge/-🗄%20Network%20-000)](https://github.com/ftasbasi/Computer-Networks)
+[![](https://img.shields.io/badge/-🗄%20My%20Network%20Protocol%20-000)](https://github.com/ftasbasi/Computer-Networks)
 [![](https://img.shields.io/badge/-👾%20Parallel%20Computing-000)](https://github.com/ftasbasi/Parallel-Computing)
-[![](https://img.shields.io/badge/-🤖%20My%20Network%20Protocol-000)](https://github.com/ftasbasi/Operating-Systems-Unix-)
+[![](https://img.shields.io/badge/-🤖%20Operating%20Systems%20-000)](https://github.com/ftasbasi/Operating-Systems-Unix-)
 [![](https://img.shields.io/badge/-😈%20virus.py-000)](https://github.com/ftasbasi/Computer-Security)
 [![](https://img.shields.io/badge/-👻%20Privilege%20Escalation-000)](https://github.com/ftasbasi/Computer-Security/tree/master/Part2)
 
