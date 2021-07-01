@@ -29,6 +29,6 @@
 [![](https://img.shields.io/badge/-👻%20Privilege%20Escalation-000)](https://github.com/ftasbasi/Computer-Security/tree/master/Part2)
 
 
-<a href="http://ftasbasi.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ftasbasi&hide_border=false&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
+<a href="https://github.com/ftasbasi"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ftasbasi&hide_border=false&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftasbasi&hide=html&hide_border=false&hide_title=true&layout=compact&langs_count=6&theme=dark"/></a>
 <!-- &custom_title=Hmm&custom_title=Most Used-->
