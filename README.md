@@ -21,6 +21,7 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
 
 #### Highlighted Repositories
+[![](https://img.shields.io/badge/-🗃%20Backupify-Cloud_Computing-000)](https://github.com/ftasbasi/Cloud-Computing)
 [![](https://img.shields.io/badge/-📟%20Object%20Oriented%20Programming-000)](https://github.com/ftasbasi/Object-Oriented-Programming)
 [![](https://img.shields.io/badge/-🦠%20CoronaVirus%20Epidemic%20Modelling-000)](https://github.com/ftasbasi/EpidemicModels-Covid19-SIR-SEIR-SIRD-)
 [![](https://img.shields.io/badge/-🗄%20My%20Network%20Protocol%20-000)](https://github.com/ftasbasi/Computer-Networks)
