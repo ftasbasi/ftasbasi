@@ -16,7 +16,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
 
