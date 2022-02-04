@@ -7,7 +7,8 @@
 <!-- Another hitCounter ![Visitor Count](https://profile-counter.glitch.me/ftasbasi/count.svg) -->
 
 #### SkillSet
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white))
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
