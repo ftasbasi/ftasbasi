@@ -32,7 +32,6 @@
 [![](https://img.shields.io/badge/-👻%20Privilege%20Escalation-000)](https://github.com/ftasbasi/Computer-Security/tree/master/Part2)
 
 #### Blog - Last Article
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ftasbasi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ftasbasi/0" alt="Recent Article 0"> 
 
