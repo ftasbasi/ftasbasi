@@ -33,7 +33,7 @@
 
 #### Blog
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ftasbasi/0" alt="Recent Article 0"> 
 
 <a href="https://github.com/ftasbasi"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ftasbasi&hide_border=false&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftasbasi&hide=html&hide_border=false&hide_title=true&layout=compact&langs_count=6&theme=dark"/></a>
