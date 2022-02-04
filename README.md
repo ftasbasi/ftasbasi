@@ -1,6 +1,5 @@
 <!-- Hey stranger! If you're here then here is my msg for you: 
   -- If you want to build something like this to your profile you can directly fork this repo (by starring it of course :)) and then edit the content here... -->
-#### Statistics
 [![Profile views](https://gpvc.arturio.dev/ftasbasi)](https://github.com/ftasbasi)
 [![GitHub followers](https://img.shields.io/github/followers/ftasbasi?label=Follow&style=social)](https://github.com/ftasbasi)
 [![Linkedin: ftasbasi](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ftasbasi/)](https://www.linkedin.com/in/ftasbasi)
