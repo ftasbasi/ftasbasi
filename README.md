@@ -9,16 +9,10 @@
 #### SkillSet
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Windows-Terminal&logoColor=999)
 
 #### Highlighted Repositories
 [![](https://img.shields.io/badge/-🗃%20Cloud%20Computing-000)](https://github.com/ftasbasi/Cloud-Computing)
